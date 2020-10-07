@@ -4,13 +4,6 @@ You can use the [editor on GitHub](https://github.com/faulisma/DH250/edit/gh-pag
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # DH 250 Practice
 ## Assignment 1
 ### Section 1
@@ -27,6 +20,14 @@ First Header | Second Header
 ------------ | -------------
 Cell 1 | Cell 2
 Cell 3 | Cell 4
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
 
 [Link](url) and ![Image](src)
 ```
