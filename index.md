@@ -21,7 +21,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 
-[yourbenefits.laclrs.org](url) and ![Image](src)
+[Link](yourbenefits.laclrs.org) and ![Image](src)
 ```
 ## Assignment 1: Heuristic Evaluation
 
