@@ -1,6 +1,6 @@
 # Assessing the Usability of the CalFresh Benefits Website
-## Madison Faulis
-## DH 250: UX
+Madison Faulis
+DH 250: UX
 
 
 ## Assignment 1: Heuristic Evaluation
