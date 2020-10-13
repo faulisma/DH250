@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 The site I will be exploring is the [CalFresh Benefits](yourbenefits.laclrs.org) site. 
 
-![Image](https://drive.google.com/file/d/1oQD6r7Pn-iU5WhvpkBfF4T30pWhjGRtF/view)
+![image](https://user-images.githubusercontent.com/59932553/95818373-91971900-0cd8-11eb-9885-d6261200c6f4.png)
 
 
 ### #1: Visibility of system status
