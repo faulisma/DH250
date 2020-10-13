@@ -1,5 +1,6 @@
 # Assessing the Usability of the CalFresh Benefits Website
 Madison Faulis
+
 DH 250: UX
 
 
@@ -7,7 +8,8 @@ DH 250: UX
 
 Evaluating heuristics is a great way to start assessing the user experience of a website. Using [Nielsen's 10 heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/), I will evaluate the [CalFresh Benefits](yourbenefits.laclrs.org) site. 
 
-# ADD DESCRIPTION OF SITE AND OVERALL OPINION
+
+This site acts as the main page for people who use the CalFresh program. The CalFresh program is the most recent iteration of the food stamp program, and it is available to individuals, families, students, and more. This service allows those making under a certain amount of money per month to have a stipend to buy fresh food from participating grocery stores, making this a very important service to our community. The program, and therefore the site, is operated by the State of California. This is reflected in the outdated design indicative of government webistes. This site is primarily for existing users of the program and acts as the way to upload most recent documents, check your status, contact your DPSS worker, and look at other resources available to you. Since the site is the main way to do these things, it is important for it to work well and reflect the needs of its users. The site as it is now has many usibility problems and unnecessary speedbumps when trying to perform a  myriad of tasks. These issues are detailed below in my heuristic evaluation.
 
 ![image](https://user-images.githubusercontent.com/59932553/95818373-91971900-0cd8-11eb-9885-d6261200c6f4.png)
 
