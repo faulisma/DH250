@@ -1,14 +1,5 @@
 # DH 250 Assignment02 Usability Testing
 
-# Description
-
-You will submit one github page including:
-1. One paragraph explaining the purpose of UT, how & what you want to test especially based on the findings of heuristic evaluation. Also one paragraph explaining the methodology.
-2. The link to your online survey (UT materials), share the survey with the instructor
-3. The link to your pilot UT video (e.g., youtube or google drive)* If you have a special concern to share the video, please contact the instructor
-4. One paragraph describing what you learned during the pilot test, what went well and what went not so well, focusing on how you want to improve your UT in the future.
-
-
 # Introduction
 
 CalFresh is the California implementation of the federal Supplemental Nutrition Assistance Program, formerly known as the Food Stamp program, which provides financial assistance for purchasing food to low-income California residents. With about 4.1 million people enrolled in CalFresh, this service reaches many people including single income households, college students, and other low income individuals. The online portal is utilized to check benefits, submit documentation, start new applications, and provide resources to other state run programs, making it a necessity to many people in California. Because it is such an important website, I decided to test the usability of the site to understand what it is doing right and how it can be improved. 
@@ -40,3 +31,8 @@ https://drive.google.com/file/d/1mZMys3wMXbkVDmMxvzn8v31DREyjT0zY/view?usp=shari
 
 # Reflection
 
+The pilot UT went well for the most part! The results can definitely be utilized as part of my results. My participant had previously been involved in usability tests and knew how to think aloud and communicate what they were doing and why, with little prompting on my part. I used my script well and followed the recommended rules when moderating a usability test. The scenario made sense and helped situate my participant before performing the tasks.
+
+There were quite a few speed bumps when planning for and conducting this usability test. I wasn't able to use any of the recommended screen recording software since I would have had to make my participant download it on their computer. Zoom was the best option when cunducting this remotely. Since it was done remotely over Zoom, I had to be aware of administering the test. I decided that it would be too diffcult to toggle between the site where we were conducting the test and the page with the Google form, so I decided to have the participant do the form on their phone. This meant that I couldn't record them filling out google form at the same time. Additionally, testing the CalFresh portal meant that we had to be logged into an actual account. I decided to use my own since it was the easiest, but that meant I had to share my login information with my participant. Luckily the participant is a friend I trust, but this does mean that I wouldn't be able to do this on a larger scale for the sake of my privacy. The only way around this would be to conduct usability tests only with participants who have a CalFresh account already. However, this opens up additional concerns with the participant's privacy and with their assumed familiarity with the site. 
+
+In the future, it would be extremely beneficial to conduct this test in person as it would mitigate many of the issues I experienced above. However, since that seems unlikely, I will continue to conduct the UT virtually. I will also limit my participants to people who already have CalFresh accounts (given that they allow me to view their information) or trusted friends and family members when using my own personal account. Additionally, I will limit my tasks to only three tasks to make the test shorter. 
